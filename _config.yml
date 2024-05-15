@@ -2,9 +2,20 @@
 title: GIS Portfolio - Nadia
 email: deatsukuba@gmail.com
 url: ''
-description: "I'm a geospatial data analyst and map maker exploring earth through maps, code, and everything in between (and beyond)! I live and work in Indonesia. "
+description: "I'm a geospatial data analyst and map maker exploring earth through maps, code, and everything in between (and beyond)! I live and work in Indonesia"
 keywords: "Geospatial data analyst, 3D Map, Graphic Designer"
-skills: "Geospatial data analyst - 3D Map - Graphic Designer"
+skills: 
+<p>
+    I'm a geospatial data analyst and map maker exploring earth through maps, code, and everything in between (and beyond)! <br>
+    I live and work in Indonesia.
+</p>
+
+<ul>
+    <li>Geospatial data analyst</li>
+    <li>3D Map</li>
+    <li>Graphic Designer</li>
+</ul>
+
 meta_author: ''
 
 # Google webmaster tools
